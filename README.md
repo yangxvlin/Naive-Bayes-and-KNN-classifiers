@@ -56,3 +56,5 @@ COMP90049 - Intro to Machine Learning - 2020S2 - Assignment1
     COMP90049 Teaching team 
 
     ```
+
+- <img src="./docs/assignment1 feedback.png">
